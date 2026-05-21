@@ -1,32 +1,37 @@
-# Project L.I.B.R.O.
+# Project LIBRO Website
 
-**L**et's **I**nspire **B**ig **R**eaders, **O**ne book at a time
+This repository contains the source code for the Project Libro website, built with Jekyll and hosted on GitHub Pages.
 
 ## About
 
-How a single trip to the Philippines inspired a mission to bring libraries and a love of reading to students who need them most.
+Project Libro is a Jekyll site using the Cayman theme.
 
+## Local Development
 
-## My Story
+To run this site locally:
 
-The first time I visited the Philippines, I noticed that many of the local schools did not have libraries for the students. To help these children develop a love for reading and get access to better resources, I started an initiative called Project LIBRO. Back at home, I organize book drives to collect high-quality reading materials from my community. I personally handle packing up all the generous donations and shipping them directly to the schools that need them most. Through this project, I hope to inspire young minds and open up a world of new opportunities for students across the ocean.
+```bash
+# Install dependencies
+bundle install
 
+# Run the development server
+bundle exec jekyll serve
+```
 
-## How Project LIBRO Works
+The site will be available at `http://localhost:4000`.
 
-Gathering Books: I gather books by combining my family's own reading collections with donations from the community, while also searching for affordable, high-quality titles at local garage sales and book sales. 
+## Deployment
 
-Packing and Shipping: I personally handle sorting, packing, and shipping all the generous donations to ensure they safely reach their destinations.
+This site is automatically deployed to GitHub Pages when you push changes to the `main` branch.
 
-Building Libraries: The books are delivered directly to schools in the Philippines, creating new reading spaces where students can explore and learn.
+## Customization
 
+Edit the following files to customize your site:
 
+- `_config.yml` - Site configuration and theme settings
+- `index.md` - Homepage content
+- Create new `.md` files in the root directory for additional pages
 
-## The Impact
+## License
 
-Through Project LIBRO, I hope to inspire young minds and open up a world of new opportunities for students across the ocean. Every book donated is more than just pages. It is a tool for learning, a spark for the imagination, and a stepping stone to a brighter future. By putting books directly into the hands of eager readers, this project helps bridge the gap for schools without traditional libraries.
-
-
-## Get Involved / Contact
-
-Help me in making a difference. Whether you want to donate gently used books, help fund shipping costs, or simply learn more about the project, I would love to hear from you.
+See LICENSE file for details.

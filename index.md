@@ -1,26 +1,33 @@
----
-layout: default
----
+# Project L.I.B.R.O.
 
-# Welcome to Project Libro
+`L`et's `I`nspire `B`ig `R`eaders, `O`ne book at a time
 
-This is the homepage of Project Libro. You can edit this file to add your own content.
+## About
 
-## Getting Started
+Opening Worlds, One Book at a Time
+How a single trip to the Philippines inspired a mission to bring libraries and a love of reading to students who need them most.
 
-To customize this site:
 
-1. Edit `_config.yml` to change the site title and description
-2. Edit `index.md` to modify this homepage
-3. Create additional markdown files for new pages
-4. Push your changes to GitHub to see them live
+## My Story
 
-## Features
+The first time I visited the Philippines, I noticed that many of the local schools did not have libraries for the students. To help these children develop a love for reading and get access to better resources, I started an initiative called Project LIBRO. Back at home, I organize book drives to collect high-quality reading materials from my community. I personally handle packing up all the generous donations and shipping them directly to the schools that need them most. Through this project, I hope to inspire young minds and open up a world of new opportunities for students across the ocean.
 
-- Built with Jekyll
-- Powered by the Cayman theme
-- Hosted on GitHub Pages
 
----
+## How Project LIBRO Works
 
-For more information, visit the [Jekyll documentation](https://jekyllrb.com/) or the [Cayman theme repository](https://github.com/pages-themes/cayman).
+Gathering Books: I gather books by combining my family's own reading collections with donations from the community, while also searching for affordable, high-quality titles at local garage sales and book sales. 
+
+Packing and Shipping: I personally handle sorting, packing, and shipping all the generous donations to ensure they safely reach their destinations.
+
+Building Libraries: The books are delivered directly to schools in the Philippines, creating new reading spaces where students can explore and learn.
+
+
+
+## The Impact
+
+Through Project LIBRO, I hope to inspire young minds and open up a world of new opportunities for students across the ocean. Every book donated is more than just pages. It is a tool for learning, a spark for the imagination, and a stepping stone to a brighter future. By putting books directly into the hands of eager readers, this project helps bridge the gap for schools without traditional libraries.
+
+
+## Get Involved / Contact
+
+Help me in making a difference. Whether you want to donate gently used books, help fund shipping costs, or simply learn more about the project, I would love to hear from you.

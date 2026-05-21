@@ -1,10 +1,9 @@
 # Project L.I.B.R.O.
 
-`L`et's `I`nspire `B`ig `R`eaders, `O`ne book at a time
+**L**et's **I**nspire **B**ig **R**eaders, **O**ne book at a time
 
 ## About
 
-Opening Worlds, One Book at a Time
 How a single trip to the Philippines inspired a mission to bring libraries and a love of reading to students who need them most.
 
 

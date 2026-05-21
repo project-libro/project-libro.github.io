@@ -6,6 +6,7 @@
 
 Discover the story behind Project LIBRO and how a single trip to the Philippines inspired a mission to bring books and a love of reading to students who need them most.
 
+<img width="843" height="429" alt="Pile of books" src="https://github.com/user-attachments/assets/32a14592-5667-4d29-96b7-d3093ec6c07d" />
 
 ## My Story
 

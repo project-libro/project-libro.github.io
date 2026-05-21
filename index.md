@@ -24,7 +24,7 @@ Building Libraries: The books are delivered directly to schools in the Philippin
 
 ## The Impact
 
-Through Project LIBRO, I hope to inspire young minds and open up a world of new opportunities for students across the ocean. Every book donated is more than just pages. It is a tool for learning, a spark for the imagination, and a stepping stone to a brighter future. By putting books directly into the hands of eager readers, this project helps bridge the gap for schools without traditional libraries.
+Through Project LIBRO, I hope to inspire young minds and open up a world of new opportunities for students across the ocean. Every book donated is more than just pages. It is a tool for learning, a spark for the imagination, and a stepping stone to a brighter future. By putting books directly into the hands of eager readers, this project helps bridge the gap for schools without traditional libraries. I have documented donations [here](donations.md).
 
 
 ## Get Involved / Contact

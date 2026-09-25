@@ -24,12 +24,12 @@ Soon after, we opened the heavy boxes, and the teachers brought the students ove
 
 <img alt="Kids in the classroom" src="https://github.com/user-attachments/assets/528d6024-7923-49de-8b64-46e2cd013b9c"  style="width: 100%; height: auto; max-width: 2048px;" />
 
-Watching them share the books and enjoy reading made me feel proud of what I had done. Seeing their happiness filled my heart, and I will never forget how something as simple as a book brought so much joy to their school community.
+Watching the children share the books and enjoy reading made me proud of what I had accomplished. Their smiles filled my heart in a way I had never experienced before. After weeks of planning, organizing, and heavy lifting, all the stress felt worth it.
 
 
 <img alt="Happy kids" src="https://github.com/user-attachments/assets/b24ec1a4-6f39-4ba0-9b91-31075ed00ae6"  style="width: 100%; height: auto; max-width: 2048px;" />
 
-Seeing the happiness on the children's faces filled my heart in a way I had never experienced before. Watching them read gave me a sense of pride, making all the stressful weeks of planning and heavy lifting into a distant memory. This project taught me that no obstacle is impossible when you are working toward a greater good. Knowing that something as simple as a book could bring so much joy and opportunity to a community is a lesson in gratitude and perseverance that I will carry with me for the rest of my life.
+This project taught me that obstacles can be overcome when you are working toward something meaningful. I learned that even something as simple as a book can bring joy, learning, and new opportunities to a community. It is a lesson in gratitude and perseverance that I will remember for the rest of my life.
 
 <img alt="Kids reading" src="https://github.com/user-attachments/assets/0083c4dd-1009-451f-a9e9-eeb9b59cbe73"  style="width: 100%; height: auto; max-width: 2048px;" />
 
